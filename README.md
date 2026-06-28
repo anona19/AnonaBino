@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;AI+%2F+ML+Innovator;Full+Stack+Architect;Product+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Robotics+%26+Avionics;Software+Developer;Problem+Solver" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -12,9 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anona19">
-    <img src="https://img.shields.io/badge/Portfolio-Premium%20Showcase-7C3AED?style=for-the-badge&logo=polywork&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/anona-bino-99143b383">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -36,15 +33,14 @@
 
 ## 2. About Section
 
-Forward-thinking **Computer Science & Engineering** analyst with a profound focus on robust system architecture, scalable software engineering, and computational intelligence. Currently anchoring core academic milestones with a near-perfect **9.73 SGPA**, combining rigorous theoretical principles with hands-on systems programming. 
+First-year B.Tech Computer Science student at Cochin University of Science and Technology (CUSAT) with a strong foundation in programming and an outstanding **9.73 SGPA**. Passionate about software development, data structures, and applying computational thinking to emerging technologies like autonomous robotics.
 
-*   **Software Engineering:** Specializing in deterministic systems programming using C/C++, focusing on high-performance algorithms and structured design patterns.
-*   **AI/ML & Predictive Insights:** Designing modern mathematical frameworks and computational algorithms for intelligent performance intelligence engines and autonomous system architectures.
-*   **Full Stack Development:** Conceptualizing data-driven, local-first architectures integrated with real-time operational workflows and seamless user experiences.
-*   **Product Mindset:** Translating complex technological specifications into mission-critical, award-winning software products designed to scale efficiently under heavy enterprise workloads.
+*   **Software Development:** Building functional software systems and utilities focusing on precision and logical problem-solving.
+*   **Robotics & Autonomous Systems:** Actively exploring drone technology stacks, including ROS2, PX4, and simulation environments like Gazebo.
+*   **Hardware-Software Integration:** Transitioning edge inference dependencies (e.g., ONNX) and building resilient IoT communication layers.
 
 > ### 🚀 Open To
-> High-impact Software Engineering Internships, Collaborative Open-Source Initiatives, AI/ML R&D Programs, and Deep-Tech Hackathons.
+> Software Engineering Internships, Technical Documentation Roles, Open-Source Contributions, and Industry Hackathons.
 
 ---
 
@@ -54,86 +50,92 @@ Forward-thinking **Computer Science & Engineering** analyst with a profound focu
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-### 🌐 Frontend
+### 🤖 Robotics & Edge AI
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/ROS2_Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
+  <img src="https://img.shields.io/badge/PX4_Autopilot-03599C?style=for-the-badge&logo=px4&logoColor=white" alt="PX4" />
+  <img src="https://img.shields.io/badge/Gazebo-FF8C00?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
 </p>
 
-### 🗄️ Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
-
-### ⚙️ Cloud, DevOps & Tooling
+### ⚙️ Tools & Version Control
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office" />
 </p>
 
 ---
 
-## 4. AI / ML Expertise Section
+## 4. Expertise Section
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Predictive Analytics** | Advanced | Designing predictive scoring frameworks for regression analysis and trend charting. |
-| **Statistical Modeling** | Intermediate | Implementing stochastic algorithms, multi-variable CGPA automation, and mathematical indexing. |
-| **Autonomous Systems R&D**| Core Concept | Assisting documentation workflows and structural design planning for heavy-payload drone arrays. |
+| **Software Programming** | Advanced | Structuring algorithms and data logic using C and C++. |
+| **Autonomous Systems** | Intermediate | Assisting in avionics configurations, payload drop automation, and ROS2 workflows. |
+| **IoT & Networking** | Developing | Designing conceptual LoRa-based mesh networks for emergency beacons. |
 
 ---
 
 ## 5. Featured Projects Section
 
 <details>
-<summary><b>📐 MarkIt — Smart Academic Performance Dashboard</b></summary>
+<summary><b>📈 MarkIt — Smart Academic Performance Dashboard</b></summary>
 <br />
 
-### Intelligent Performance Analytics Platform
-An enterprise-grade analytical dashboard engineered to track, evaluate, and forecast multi-semester academic performance indices. The engine automates core cumulative and fractional GPA configurations while provisioning predictive algorithms to output exactly targeted scores needed for custom baseline goals.
+### Intelligent Performance Tracking Utility
+Built an intelligent dashboard utility designed to track multi-semester academic performance. The system mathematically automates CGPA and average calculations while generating predictive insights on the precise scores needed to hit targeted grade benchmarks.
 
 | Attribute | Specification |
 | :--- | :--- |
-| **Stack** | C++, Python, Local-First Engine, Markdown Visualizer |
-| **Scale** | Individual/Institutional Scalable Schema |
-| **Performance** | Sub-millisecond calculation loops and instant UI state-refreshes |
-| **Security** | End-to-end sandbox storage with localized encryption |
-| **Impact** | Automated manual processing, eliminating data ingestion faults |
-| **Repository** | [Production Source](https://github.com/anona19/MarkIt) |
+| **Stack** | C/C++ |
+| **Scale** | Local Academic Tool |
+| **Performance** | Instant calculation and statistical charting |
+| **Impact** | Removed manual grading arithmetic errors and streamlined academic goal-setting |
+| **Repository** | [View Source](https://github.com/anona19) |
 
 #### Professional Overview
-MarkIt implements a strict algorithmic approach to statistical student data handling. By treating academic benchmarks as variables inside a custom predictive modeling script, the system ensures zero precision loss when processing floating-point calculations during complex scale weight distributions.
+MarkIt bridges the gap between raw grading data and actionable student objectives. By computing historical marks against future targets, it ensures academic planning is grounded in precise numerical forecasts.
 
 </details>
 
 <details>
-<summary><b>🛸 Aroha Deep-Space Drone Avionics Document System</b></summary>
+<summary><b>🛟 Rakshak — Smart Flood Rescue System</b></summary>
 <br />
 
-### High-Spec Drone System Engineering Architecture
-Enterprise-level configuration matrix and systemic blueprint mapping built to support the end-to-end lifecycles of cross-functional drone assembly tasks, culminating in global recognition.
+### LoRa-Based Emergency Mesh Network
+Engineered the conceptual architecture for an emergency response beacon system designed to detect and relay victim locations in compromised environments.
 
 | Attribute | Specification |
 | :--- | :--- |
-| **Stack** | Technical Markdown, Version Control Systems, Schematic Ingestion Tooling |
-| **Scale** | Global Space Drone Challenge Deployment Framework |
-| **Performance** | Distributed information mapping for low-latency operational access |
-| **Security** | Strict access control structures across independent engineering subgroups |
-| **Impact** | Secured Global 15th Rank and Best Design Accolade at international competition |
-| **Repository** | [Aroha Systems Matrix](https://github.com/anona19/aroha-docs) |
+| **Stack** | LoRa Networking, Systems Architecture |
+| **Scale** | Ideathon Prototype |
+| **Impact** | Architected decentralized communication flows for natural disaster response |
+| **Repository** | [View Source](https://github.com/anona19) |
 
 #### Professional Overview
-Managed and formulated the comprehensive design blueprints, cross-team interfaces, and functional integration mapping for complex hardware-software assemblies, establishing high redundancy margins during mission simulations.
+Rakshak leverages a decentralized mesh network, allowing rescue beacons to bounce signals across long distances without relying on traditional cellular infrastructure, significantly increasing survival rates during severe flood conditions.
+
+</details>
+
+<details>
+<summary><b>🛸 Autonomous Payload Drop System</b></summary>
+<br />
+
+### Drone Payload Actuation Modification
+Refactored an autonomous payload repository, effectively deprecating its original hardware dependency to adapt to open standards.
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Stack** | Git, ONNX Runtime |
+| **Scale** | Hardware-Agnostic Drone Module |
+| **Impact** | Replaced proprietary Hailo dependencies with a flexible ONNX supporting system |
+| **Repository** | [View Source](https://github.com/anona19) |
+
+#### Professional Overview
+Navigated complex repository files to rip out highly specific hardware-bound inference models, successfully converting the payload actuation software into a versatile ONNX-supported environment for broader drone application.
 
 </details>
 
@@ -141,14 +143,13 @@ Managed and formulated the comprehensive design blueprints, cross-team interface
 
 ## 6. Experience Section
 
-### **Team Member (Documentation & Engineering Support)** — *AROHA Drone Design & Development Club*
+### **Team Member (Documentation)** — *AROHA Drone Design & Development Club*
 **Oct 2025 – Present**
-*   Spearheaded the technical writing framework, structuring detailed hardware blueprints and systemic validation methodologies.
-*   Enforced standardized version control practices across multi-disciplinary engineering tracks (Avionics, Structure, Controls).
-*   Optimized inter-departmental workflows, resulting in rapid deployment of complex hardware design revisions.
-*   Maintained technical system configuration files, ensuring zero-drift alignment between physical prototypes and engineering specifications.
+*   Operate within the documentation division to draft technical reports and maintain rigorous project schemas.
+*   Support structural communication and coordination between distinct technical sub-teams during active hardware development cycles.
+*   Contributed to the core infrastructure that allowed the club to secure Global 15th Rank & Best Design at the Space Drone Challenge.
 
-`#System-Documentation` `#Git` `#Technical-Mapping` `#Project-Coordination` `#Avionics-R&D`
+`#Technical-Documentation` `#Team-Coordination` `#Drone-Development` 
 
 ---
 
@@ -158,59 +159,16 @@ Managed and formulated the comprehensive design blueprints, cross-team interface
 
 | Recognition | Details |
 | :--- | :--- |
-| **🏆 1st Place — Ideathon** | Organized by IEEE Circuits and Systems Society SBC at IEEE Robotics & Automation Society, CUSAT. |
+| **🥇 1st Place — Ideathon** | Organized by IEEE Circuits and Systems Society SBC at IEEE Robotics & Automation Society, CUSAT. |
 | **🥇 1st Place — Ignite Ideas** | Achieved apex position during the ACES Knowledge Festival 2026 (VIBHAVA). |
 | **🥈 2nd Place — Ideathon** | Awarded by the Society of Construction Engineering (SOCE) & Equal Opportunities Cell, CUSAT. |
-| **🌍 Global 15th Rank & Best Design** | Awarded at the prestigious International Space Drone Challenge as a vital unit of Team AROHA. |
+| **🌍 Global 15th Rank & Best Design** | Awarded at the prestigious Space Drone Challenge as a vital unit of Team AROHA. |
 
 </div>
 
 ---
 
-## 8. Certifications Section
-
-### ☁️ Amazon Web Services
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(In%20Progress)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cert" />
-</p>
-
-### 📊 Oracle Academy
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations%20(Track)-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cert" />
-</p>
-
-### 🎓 NPTEL / SWAYAM
-<p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms%20(Enrolled)-005EA2?style=flat-square&logo=education" alt="NPTEL Cert" />
-</p>
-
-### 🌐 Cisco Networking Academy
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-179BD7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Cert" />
-</p>
-
----
-
-## 9. Coding Profiles Section
-
-<p align="left">
-  <a href="https://leetcode.com/anona19">
-    <img src="https://img.shields.io/badge/LeetCode-Profile_Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Verified-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://www.hackerrank.com">
-    <img src="https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://www.codechef.com">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive_Eng-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-</p>
-
----
-
-## 10. GitHub Analytics Section
+## 8. GitHub Analytics Section
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anona19&show_icons=true&theme=tokyonight&title_color=9A6AFF&icon_color=6366F1&text_color=99A3A4&bg_color=0D0B14&hide_border=true" width="48%" alt="GitHub Stats" />
@@ -223,7 +181,7 @@ Managed and formulated the comprehensive design blueprints, cross-team interface
 
 ---
 
-## 11. GitHub Trophies Section
+## 9. GitHub Trophies Section
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -233,7 +191,7 @@ Managed and formulated the comprehensive design blueprints, cross-team interface
 
 ---
 
-## 12. Contribution Activity Section
+## 10. Contribution Activity Section
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anona19&theme=tokyonight&bg_color=0D0B14&color=9A6AFF&line=6366F1&point=A855F7&area=true&hide_border=true" width="100%" alt="Activity Graph" />
@@ -241,7 +199,7 @@ Managed and formulated the comprehensive design blueprints, cross-team interface
 
 ---
 
-## 13. Contribution Snake Section
+## 11. Contribution Snake Section
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anona19/anona19/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
@@ -249,15 +207,15 @@ Managed and formulated the comprehensive design blueprints, cross-team interface
 
 ---
 
-## 14. Current Focus Section
+## 12. Current Focus Section
 
 ```yaml
 learning:
-  - Advanced Data Structures and Algorithms in C++
-  - Statistical Analysis & Linear Algebra for Machine Learning
+  - Advanced Data Structures and Algorithms in C/C++
+  - ROS2 Jazzy and PX4 integration dynamics
 building:
-  - Next-gen expansion modules for the MarkIt Intelligent Dashboard
+  - Rakshak emergency mesh network infrastructure
 exploring:
-  - Systems architecture engineering and multi-sensor avionics arrays
+  - ONNX runtime integrations for autonomous edge robotics
 open_to:
-  - Core software engineering internships and tech-innovator hackathons
+  - Software engineering internships and hands-on team projects
